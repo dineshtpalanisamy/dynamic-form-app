@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Config-driven-form/static/css/main.9fe40f7c.css",
+    "main.js": "/Config-driven-form/static/js/main.eef4ee5f.js",
+    "static/js/453.59e8e288.chunk.js": "/Config-driven-form/static/js/453.59e8e288.chunk.js",
+    "index.html": "/Config-driven-form/index.html",
+    "main.9fe40f7c.css.map": "/Config-driven-form/static/css/main.9fe40f7c.css.map",
+    "main.eef4ee5f.js.map": "/Config-driven-form/static/js/main.eef4ee5f.js.map",
+    "453.59e8e288.chunk.js.map": "/Config-driven-form/static/js/453.59e8e288.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fe40f7c.css",
+    "static/js/main.eef4ee5f.js"
+  ]
+}
